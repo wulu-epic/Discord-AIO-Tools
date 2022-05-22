@@ -1,7 +1,7 @@
 # Discord-AIO-Tools
 This program is meant for educational purposes only.
 
-``` python
+``` ruby
   #info
   [+] uses anarchy wrapper
   [+] some other discord shit i think they're useless but whatever
