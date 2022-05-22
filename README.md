@@ -1,6 +1,8 @@
 # Discord-AIO-Tools
 This program is meant for educational purposes only.
 
+Give me tokens so I can add the features near the bottom xxx
+
 ``` ruby
   #info
   [+] uses anarchy wrapper
