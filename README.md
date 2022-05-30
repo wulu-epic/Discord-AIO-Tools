@@ -7,7 +7,6 @@ Give me tokens so I can add the features near the bottom xxx
   #info
   [+] uses anarchy wrapper
   [+] some other discord shit i think theyre useless but whatever
-  [+] c# if it isnt obvious 
   
   
   #features
