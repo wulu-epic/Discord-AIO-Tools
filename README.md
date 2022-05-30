@@ -6,7 +6,7 @@ Give me tokens so I can add the features near the bottom xxx
 ``` ruby
   #info
   [+] uses anarchy wrapper
-  [+] some other discord shit i think they're useless but whatever
+  [+] some other discord shit i think theyre useless but whatever
   [+] c# if it isnt obvious 
   
   
